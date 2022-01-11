@@ -1,0 +1,2 @@
+#comentário simples
+'''comentário longo'''
