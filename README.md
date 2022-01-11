@@ -1,2 +1,2 @@
 # aprendendo-python
- Repositório para registrar vários códigos em python
+ Repositório para registrar códigos em python
