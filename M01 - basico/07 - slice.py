@@ -1,3 +1,4 @@
+
 '''STR'''
 fruta = 'Abacate'
 #index   0123456

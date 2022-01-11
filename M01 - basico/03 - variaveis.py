@@ -1,3 +1,4 @@
+
 '''
 TEXT
 string str("texto")
@@ -18,7 +19,3 @@ nome = 'André'
 idade = 18
 cidade = 'Poços de Calde'
 print('O ' + nome + ' tem ' + str(idade) + ' anos de idade e mora em ' + cidade)
-
-
-
-

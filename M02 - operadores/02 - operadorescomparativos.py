@@ -1,3 +1,4 @@
+
 operadores = 10 == 10
 operadorespalavra = 'banana' == 'Banana'
 

@@ -1,3 +1,4 @@
+
 mensagem = "eu adoro comida caseira"
 
 print(mensagem.lower())
@@ -8,4 +9,3 @@ print(mensagem.find('adoro'))
 print(mensagem.replace('a','e'))
 print(mensagem.replace('caseira','feita em casa'))
 print(mensagem.strip()) #remove espaços
-
